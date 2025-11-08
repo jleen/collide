@@ -10,5 +10,6 @@ dependencies = []
 dev = [
     "graphviz>=0.21",
     "ipykernel>=7.1.0",
+    "pydot>=4.0.1",
     "supriya>=25.9b1",
 ]
